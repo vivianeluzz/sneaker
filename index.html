@@ -1,43 +1,45 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Dafiti</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/glider-js/1.7.7/glider.min.css">    
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <container>
+    <container class="wrapper">
         <main>
             <img class="imagem-principal" src="assets/01-Principal_Desktop.jpg" alt="">
+            <img class="img-mobile" src="assets/02-Principal_Mobile.jpg" alt="">
+
         </main>
-    </container>
 
-    <div class="carousel-container">
-        <button class="prev" onclick="prevSlide()">&#10094;</button>
-        <div class="carousel-slide">
-            <img src="assets/logotipos/adidas.jpg" class="carousel-image">
-            <img src="assets/logotipos/vans.jpg" class="carousel-image">
-            <img src="assets/logotipos/balance.jpg" class="carousel-image">
-            <img src="assets/logotipos/asics.jpg" class="carousel-image">
-            <img src="assets/logotipos/converse.jpg" class="carousel-image">
-            <img src="assets/logotipos/fila.jpg" class="carousel-image">
-            <img src="assets/logotipos/new-era.jpg" class="carousel-image">
-            <img src="assets/logotipos/nike.jpg" class="carousel-image">
-            <img src="assets/logotipos/tommy.jpg" class="carousel-image">
-            <img src="assets/logotipos/puma.jpg" class="carousel-image">
-            <img src="assets/logotipos/starter.jpg" class="carousel-image">
+    <div class="slider-logos">
+        <div class="carousel-logos">
+            <img src="assets/logotipos/adidas.jpg">
+            <img src="assets/logotipos/vans.jpg">
+            <img src="assets/logotipos/balance.jpg">
+            <img src="assets/logotipos/asics.jpg">
+            <img src="assets/logotipos/converse.jpg">
+            <img src="assets/logotipos/fila.jpg">
+            <img src="assets/logotipos/new-era.jpg">
+            <img src="assets/logotipos/nike.jpg">
+            <img src="assets/logotipos/tommy.jpg">
+            <img src="assets/logotipos/puma.jpg">
+            <img src="assets/logotipos/starter.jpg">
         </div>
-        <button class="next" onclick="nextSlide()">&#10095;</button>
     </div>
 
-    <div class="banner">
-        <ul id="">
-            <img src="assets/tenis-fila.jpg" class="carousel-image">
-            <img src="assets/grupo.jpg" class="carousel-image">
-            <img src="assets/converse.jpg" class="carousel-image">
-
-        </ul>
+    <div class="banners-div">
+        <div class="stacked-banners">
+            <img src="assets/tenis-fila.jpg" class="staked-banner1">
+            <img src="assets/grupo.jpg" class="staked-banner2">
+        </div>
+            <img src="assets/converse.jpg" class="full-height-banner">
     </div>
+    </container>
     
 </body>
+<script src="javascript/script.js"></script>
 </html>
