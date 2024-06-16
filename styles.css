@@ -75,9 +75,7 @@ section.slider {
 
 .banners-div{
     display: flex;
-    width: 100%;
     justify-content: space-around;
-    margin: 48px 0;
     max-width: 100%;
 }
 
@@ -96,12 +94,14 @@ section.slider {
 
 .staked-banner1 {
     position: relative;
+    max-width: 100%;
 
 }
 
 .staked-banner2 {
     margin-top: 20px;
     position: relative;
+    max-width: 100%;
 }
 
 .content-hover {
@@ -147,13 +147,30 @@ section.slider {
 
 
 
+
 @media only screen and (max-width: 700px){
     .img-mobile {
         display: block;
     }
-
+    .banners-div{
+        flex-direction: column;
+        padding: 16px;
+        max-width: 100%;
+    }
     .imagem-principal {
         display: none;
+    }
+
+    .full-height-banner{
+        margin-top: 16px;
+        max-width: 100%;
+    }
+
+    .staked-banner2 {
+        margin-top: 16px;
+    }
+    .content-hover{
+        display: block;
     }
 }
 
