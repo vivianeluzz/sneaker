@@ -39,6 +39,7 @@ section.slider {
     padding: 60px 0;
     position: relative;
     background: white;
+    cursor: pointer;
 
 }
 
@@ -50,6 +51,7 @@ section.slider {
     height: 100%;
     content: '';
     z-index: 2;
+    pointer-events: none;
 }
 
 .slider-logos:before {
@@ -71,6 +73,10 @@ section.slider {
 .carousel-logos {
     white-space: nowrap;
     animation: 15s slide infinite linear;
+}
+
+.carousel-logos a {
+   text-decoration: none;
 }
 
 .banners-div{
