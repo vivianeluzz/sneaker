@@ -77,6 +77,7 @@ section.slider {
     display: flex;
     justify-content: space-around;
     max-width: 100%;
+    margin-bottom: 40px;
 }
 
 .stacked-banners{
