@@ -8,8 +8,19 @@ Eu sou Viviane Luz, desenvolvedora Front-end.
 
 Atualmente moro em São Paulo, SP-Brasil.
 
+### Case técnico descrição:
 
+Projeto elaborado para o case técnico, vaga de front end na Dafiti.
+O projeto foi elaborado em Html, Css, Javascript e metodologias Flexbox. Utilizando o editor de código Visual Studio Code, para o desenvolvimento.
 
+✔️ Técnicas e tecnologias utilizadas
+- Github
+- Git
+- Vscode
+- HTML
+- CSS 
+- Flexbox
+- Javascript
 
 
 
@@ -18,10 +29,8 @@ Atualmente moro em São Paulo, SP-Brasil.
 Antes de começar:
 
 - Fork esse repositório
-- Clone o fork na sua máquina (Para isso basta abrir o seu terminal e digitar `git clone url-do-seu-repositorio-forkado`)
-- Entre na pasta do seu repositório (Para isso basta abrir o seu terminal e digitar `cd nome-do-seu-repositorio-forkado`)
-
-
+- Clone o fork na sua máquina abra o seu terminal e digitar `git clone url-do-seu-repositorio-forkado`.
+- Entre na pasta do seu repositório abrir o seu terminal e digitar `cd nome-do-seu-repositorio-forkado`.
 
 
 
@@ -31,8 +40,9 @@ Antes de começar:
 <div>
      <a href="https://www.linkedin.com/in/viviane-luz/-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href = "mailto:contatovivianesluzz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
 </div> 
+
+
 
 
 
