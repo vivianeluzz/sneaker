@@ -2,9 +2,6 @@
     margin: 0;
     padding: 0;
 }
-body {
-    background: #ffffff;
-}
 .wrapper {
     display: flex;
     flex-direction: column;
@@ -13,8 +10,7 @@ body {
 }
 
 .img-desktop {
-    max-width: 100%;
-    
+    max-width: 100%;  
 }
 
 section.slider {
@@ -22,7 +18,6 @@ section.slider {
     width: 100%;
     height: auto;
 }
-
 
 @keyframes slide {
     from {
@@ -40,7 +35,6 @@ section.slider {
     position: relative;
     background: white;
     cursor: pointer;
-
 }
 
 .slider-logos:before,
@@ -66,8 +60,7 @@ section.slider {
 
 
 .slider-logos:hover .carousel-logos {
-    animation-play-state: paused;
-    
+    animation-play-state: paused; 
 }
 
 .carousel-logos {
@@ -90,19 +83,16 @@ section.slider {
     display: flex;
     flex-direction: column;
     max-width: 100%;
-
 }
 
 .banner-div{
     position: relative;
     cursor: pointer;
-
 }
 
 .staked-banner1 {
     position: relative;
     max-width: 100%;
-
 }
 
 .staked-banner2 {
@@ -126,7 +116,6 @@ section.slider {
 
 .banner-div:hover .content-hover{
     display: block;
-
 }
 
 .hover-title {
@@ -147,13 +136,12 @@ section.slider {
 .img-mobile {
         display: none;
     }
-
     .img-desktop {
         display: block;
     }
 
 
-
+/* Responsividade/Media query para Mobile */
 
 @media only screen and (max-width: 700px){
     .img-mobile {
