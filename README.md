@@ -2,7 +2,7 @@
 
 Eu sou Viviane Luz, desenvolvedora Front-end.
 
-### Case técnico descrição:
+### Landing Page Ecommerce:
 
 Projeto elaborado com scroll ifinito utilizando apenas CSS.
 O projeto foi elaborado em Html, Css, Javascript e metodologias Flexbox. Utilizando o editor de código Visual Studio Code, para o desenvolvimento.
