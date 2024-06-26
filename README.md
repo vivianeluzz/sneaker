@@ -1,7 +1,3 @@
-<h1 align="center">
-  <img src="https://empbraatsstorage.blob.core.windows.net/atslogos/9e82490a-b46a-4cea-9de0-ad35ba79778e_4.png" alt="logo dafiti" width="100">
-</h1>
-
 ### ✋🏾 Olá, veja a minha página de ecommerce!
 
 Eu sou Viviane Luz, desenvolvedora Front-end.
