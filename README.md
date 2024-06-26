@@ -2,15 +2,13 @@
   <img src="https://empbraatsstorage.blob.core.windows.net/atslogos/9e82490a-b46a-4cea-9de0-ad35ba79778e_4.png" alt="logo dafiti" width="100">
 </h1>
 
-### ✋🏾 Olá Dafiti!
+### ✋🏾 Olá, veja a minha página de ecommerce!
 
 Eu sou Viviane Luz, desenvolvedora Front-end.
 
-Atualmente moro em São Paulo, SP-Brasil.
-
 ### Case técnico descrição:
 
-Projeto elaborado para o case técnico, vaga de front end na Dafiti.
+Projeto elaborado com scroll ifinito utilizando apenas CSS.
 O projeto foi elaborado em Html, Css, Javascript e metodologias Flexbox. Utilizando o editor de código Visual Studio Code, para o desenvolvimento.
 
 ✔️ Técnicas e tecnologias utilizadas
